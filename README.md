@@ -3,3 +3,5 @@ Obtener el objetivo aprender repositorios con Git y Github con el grupo 10 en el
 
 Esta linea representa la modificcion del archivo README.md desde el editor web de GitHub.com
 Tambien aprendimos que el archivo READM.md es compatible con MarkDown
+
+Esta linea representa el segundo commit realizado via web. Mi perfil de github es el siguiente [Juan Carlos](https://github.com/JuanCarlosMejia)
