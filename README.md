@@ -5,3 +5,5 @@ Esta linea representa la modificcion del archivo README.md desde el editor web d
 Tambien aprendimos que el archivo READM.md es compatible con MarkDown
 
 Esta linea representa el segundo commit realizado via web. Mi perfil de github es el siguiente [Juan Carlos](https://github.com/JuanCarlosMejia)
+
+Esta linea representa el prier commit realizado por terminal. Este repositorio tambien se clono por terminal 
