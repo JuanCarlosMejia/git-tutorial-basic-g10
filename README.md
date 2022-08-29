@@ -14,3 +14,22 @@ ESte es el primer commit por github desktop. Se usara para mostrar el funcionaie
 Este es el cuarto comid por terminal, para ejemplificar el Pull en Github Desktop
 
 Primer commid por GitHub Funcionamiento de Pull en Git por terminal
+
+Primer Flow
+Este repositorio contiene el sprimer ejercicio en Node Red, el cual consiste en enviar información cada segundo.
+
+Material necesario
+Para poder realizar necesario es necesario tener instalado:
+
+Node.js Usar la versión LTS v16x e instalar los build tools.
+Node-Red
+Instrucciones
+No olvides primero abrir node red desde la terminal con node-red, de igual manera, abrir el localhost:1880 en tu navegador de preferenecia
+
+Colocar el bloque de inject y el bloque de debug. Unir ambos bloques.
+
+Dar doble click al bloque de inject y en donde dice "repeat" seleccionar la opción de interval y colocar un tiempo de un segundo.
+
+Finalmente, dar click en el botón Deploy para que se actualicen los cambios.
+
+Resultados
