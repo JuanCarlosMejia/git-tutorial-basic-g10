@@ -7,3 +7,5 @@ Tambien aprendimos que el archivo READM.md es compatible con MarkDown
 Esta linea representa el segundo commit realizado via web. Mi perfil de github es el siguiente [Juan Carlos](https://github.com/JuanCarlosMejia)
 
 Esta linea representa el prier commit realizado por terminal. Este repositorio tambien se clono por terminal 
+
+ESte es el primer commit por github desktop. Se usara para mostrar el funcionaiento de Pull por terminal 
