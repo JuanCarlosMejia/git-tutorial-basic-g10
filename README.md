@@ -8,4 +8,9 @@ Esta linea representa el segundo commit realizado via web. Mi perfil de github e
 
 Esta linea representa el prier commit realizado por terminal. Este repositorio tambien se clono por terminal 
 
+<<<<<<< HEAD
 ESte es el primer commit por github desktop. Se usara para mostrar el funcionaiento de Pull por terminal 
+
+Este es el cuarto comid por terminal, para ejemplificar el Pull en Github Desktop
+
+Primer commid por GitHub Funcionamiento de Pull en Git por terminal
